@@ -11,12 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=manoj-manu9779&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=manoj-manu9779&theme=ocean_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-manu9779&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manoj-manu9779&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-[![](https://visitcount.itsvg.in/api?id=manoj-manu9779&icon=10&color=11)](https://visitcount.itsvg.in)
